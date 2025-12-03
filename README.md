@@ -3,7 +3,7 @@
 ### 🧠 AI Engineer at Inria | 🛠️ Open Source Toolmaker | ♟️ Quirkiness Enthusiast
 
 Welcome to my corner of GitHub!  
-I build open-source AI and computer vision tools that (hopefully) make life easier for humans, robots, and the occasional overambitious Roomba.
+I build open-source AI and computer vision tools that (hopefully) make life easier for humans, robots, and the occasional overambitious Roborock.
 
 ---
 
