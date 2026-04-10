@@ -1,18 +1,9 @@
-# 👋 Hi, I'm Spinkoo!
+# Hi, I'm Spinkoo!
 
-### 🧠 AI Engineer at Inria | 🛠️ Open Source Toolmaker | ♟️ Quirkiness Enthusiast
+### AI Engineer at Inria | Open Source Toolmaker 
 
 Welcome to my corner of GitHub!  
 I build open-source AI and computer vision tools that (hopefully) make life easier for humans, robots, and the occasional overambitious Roborock.
-
----
-
-## 🚀 What I Do
-
-- **AI Engineering**: I create R&D roadmaps, prototype wild ideas, and implement AI-driven solutions (sometimes before my coffee).
-- **Open Source**: Check out my repos for libraries and tools—if they break, consider them features.
-
----
 
 ## 🎯 Projects
 
@@ -42,17 +33,17 @@ Compress, deploy, and run YOLOv7 for object detection on low-cost microcontrolle
 
 ---
 
-## 📫 Where to Find Me
+## Don't go all social-engineering on me
 
 - [LinkedIn](https://www.linkedin.com/in/wail-harrouz-65a0a6156/) (Because even AI engineers need a professional side.)
 
 ---
 
-## 🏞️ When I’m Not Coding
+## If for some reason you are on my github page to connect outside tech, I also like :
 
 - Getting checkmated in chess by 12-year-olds online
 - Hiking (because GPUs can’t give you fresh air)
-- Reading books—sometimes about AI taking over the human world, sometimes about humans raising dragons
+- Reading books
 
 ---
 
