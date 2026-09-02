@@ -42,7 +42,7 @@ Compress, deploy, and run YOLOv7 for object detection on low-cost microcontrolle
 ## If for some reason you are on my github page to connect outside tech, I also like :
 
 - Getting checkmated in chess by 12-year-olds online
-- Hiking (because GPUs can’t give you fresh air)
+- Hiking (GPUs heated all the fresh air at home)
 - Reading books
 
 ---
