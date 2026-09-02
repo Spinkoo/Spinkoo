@@ -5,7 +5,7 @@
 Welcome to my corner of GitHub!  
 I build open-source AI and computer vision tools that (hopefully) make life easier for humans, robots, and the occasional overambitious Roborock.
 
-## 🎯 Projects
+## Projects
 
 Want to see what I'm working on? Here are some highlights:
 
